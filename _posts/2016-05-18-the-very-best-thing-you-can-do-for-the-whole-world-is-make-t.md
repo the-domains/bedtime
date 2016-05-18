@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-05-18T21:42:31.448Z'
-datePublished: '2016-05-18T21:42:31.771Z'
+dateModified: '2016-05-18T21:41:33.237Z'
+datePublished: '2016-05-18T21:41:33.298Z'
 title: The very best thing you can do for the whole world is make the most of yourself -Wallace D. Wattles
 author: []
+starred: false
 sourcePath: _posts/2016-05-18-the-very-best-thing-you-can-do-for-the-whole-world-is-make-t.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
