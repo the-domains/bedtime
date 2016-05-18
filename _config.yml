@@ -1,0 +1,14 @@
+layout_spectrum: 0.9524951819330454
+typography_spectrum: 0.3769830232486129
+color:
+  brandStrength: 0.002012584824115038
+  lightness: 0.1439182418398559
+  saturation: 0.6192337046377361
+  rhythmicContrast: 0.7957587882410735
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Bedtime
